@@ -12,9 +12,9 @@ class MainActivity : AppCompatActivity() {
         Log.i("InfoLog01", "onCreate event fired")
     }
 
-    override fun onStop() {
-        super.onStop()
-        Log.e("ErrorLog02", "We're going down, captain!")
+    override fun onDestroy() {
+        super.onDestroy()
+        Log.e("ErrorLog01", "We're going down, captain!")
     }
 
     override fun onStart() {
