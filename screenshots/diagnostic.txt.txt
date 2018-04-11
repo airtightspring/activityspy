@@ -1,0 +1,33 @@
+04-11 20:57:59.695 7411-7411/? I/art: Not late-enabling -Xcheck:jni (already on)
+04-11 20:57:59.695 7411-7411/? W/art: Unexpected CPU variant for X86 using defaults: x86
+04-11 20:57:59.729 7411-7418/? I/art: Debugger is no longer active
+    Starting a blocking GC Instrumentation
+04-11 20:57:59.872 7411-7411/? W/System: ClassLoader referenced unknown path: /data/app/activityspy.kjerauld.washington.edu.activityspy-2/lib/x86
+04-11 20:57:59.883 7411-7411/? I/InstantRun: starting instant run server: is main process
+04-11 20:57:59.980 7411-7411/? W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+04-11 20:58:00.176 7411-7411/? I/InfoLog01: onCreate event fired
+04-11 20:58:00.177 7411-7411/? I/InfoLog02: onStart event fired
+04-11 20:58:00.178 7411-7411/? I/InfoLog03: onResume event fired
+04-11 20:58:00.252 7411-7427/? I/OpenGLRenderer: Initialized EGL, version 1.4
+04-11 20:58:00.252 7411-7427/? D/OpenGLRenderer: Swap behavior 1
+04-11 20:58:00.253 7411-7427/? W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-11 20:58:00.253 7411-7427/? D/OpenGLRenderer: Swap behavior 0
+04-11 20:58:00.269 7411-7427/? D/EGL_emulation: eglCreateContext: 0x8c77ed40: maj 3 min 0 rcv 3
+04-11 20:58:00.369 7411-7427/? D/EGL_emulation: eglMakeCurrent: 0x8c77ed40: ver 3 0 (tinfo 0x99c76750)
+04-11 20:58:00.370 7411-7427/? E/eglCodecCommon: glUtilsParamSize: unknow param 0x00008cdf
+    glUtilsParamSize: unknow param 0x00008824
+04-11 20:58:00.411 7411-7411/? W/art: Before Android 4.1, method int android.support.v7.widget.DropDownListView.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+04-11 20:58:00.424 7411-7427/? D/EGL_emulation: eglMakeCurrent: 0x8c77ed40: ver 3 0 (tinfo 0x99c76750)
+04-11 21:01:55.152 7411-7427/activityspy.kjerauld.washington.edu.activityspy D/EGL_emulation: eglMakeCurrent: 0x8c77ed40: ver 3 0 (tinfo 0x99c76750)
+04-11 21:01:55.153 7411-7411/activityspy.kjerauld.washington.edu.activityspy E/ErrorLog02: We're going down, captain!
+04-11 21:01:59.662 7411-7411/activityspy.kjerauld.washington.edu.activityspy I/InfoLog02: onStart event fired
+04-11 21:01:59.664 7411-7411/activityspy.kjerauld.washington.edu.activityspy I/InfoLog03: onResume event fired
+04-11 21:01:59.898 7411-7427/activityspy.kjerauld.washington.edu.activityspy D/EGL_emulation: eglMakeCurrent: 0x8c77ed40: ver 3 0 (tinfo 0x99c76750)
+04-11 21:02:02.209 7411-7427/activityspy.kjerauld.washington.edu.activityspy D/EGL_emulation: eglMakeCurrent: 0x8c77ed40: ver 3 0 (tinfo 0x99c76750)
+04-11 21:02:02.468 7411-7411/activityspy.kjerauld.washington.edu.activityspy E/ErrorLog02: We're going down, captain!
+04-11 21:02:03.204 7411-7411/activityspy.kjerauld.washington.edu.activityspy I/InfoLog01: onCreate event fired
+04-11 21:02:03.205 7411-7411/activityspy.kjerauld.washington.edu.activityspy I/InfoLog02: onStart event fired
+04-11 21:02:03.206 7411-7411/activityspy.kjerauld.washington.edu.activityspy I/InfoLog03: onResume event fired
+04-11 21:02:03.423 7411-7427/activityspy.kjerauld.washington.edu.activityspy D/EGL_emulation: eglMakeCurrent: 0x8c77ed40: ver 3 0 (tinfo 0x99c76750)
+04-11 21:02:05.708 7411-7427/activityspy.kjerauld.washington.edu.activityspy D/EGL_emulation: eglMakeCurrent: 0x8c77ed40: ver 3 0 (tinfo 0x99c76750)
+04-11 21:02:05.717 7411-7411/activityspy.kjerauld.washington.edu.activityspy E/ErrorLog02: We're going down, captain!
